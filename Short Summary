@@ -1,0 +1,8 @@
+The "Configuring and Optimizing the different types of Load Balancer for efficiently manage different types of Traffic" 
+focuses on exploring and configuring different types of load balancers in AWS to efficiently manage incoming traffic. 
+To start with configuring the Classic Load Balancer and creating multiple EC2 instances with restricted access for security. 
+Subsequently, the Application Load Balancer is configured with path-based routing to direct traffic based on URL paths. 
+Followed EC2 instances are provisioned with web servers to showcase different webpage paths, aligning with path-based routing for different traffic engagement. 
+Finally, target groups are configured to ensure efficient routing of traffic. 
+This helps in AWS load balancer management, security implementation, 
+and advanced routing strategies to optimize application performance and enhance system reliability and scalability.
